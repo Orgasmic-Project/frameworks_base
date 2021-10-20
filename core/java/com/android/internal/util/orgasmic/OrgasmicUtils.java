@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.internal.util.spark;
+package com.android.internal.util.orgasmic;
 
 import android.Manifest;
 import android.content.Context;
@@ -54,7 +54,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Locale;
 
-public class SparkUtils {
+public class OrgasmicUtils {
 
     public static final String INTENT_SCREENSHOT = "action_handler_screenshot";
     public static final String INTENT_REGION_SCREENSHOT = "action_handler_region_screenshot";
